@@ -4,3 +4,7 @@ requests==2.31.0
 yfinance
 websocket-client
 websockets
+twilio
+pandas
+python-dotenv
+flask-cors
